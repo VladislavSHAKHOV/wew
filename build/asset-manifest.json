@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4d35c8f8.css",
+    "main.js": "/static/js/main.7c303f3b.js",
+    "static/media/Inter-SemiBold.ttf": "/static/media/Inter-SemiBold.6058d3da655fb35169c2.ttf",
+    "static/media/Inter-Medium.ttf": "/static/media/Inter-Medium.3f7acfe50aad7ad68548.ttf",
+    "static/media/Inter-Regular.ttf": "/static/media/Inter-Regular.9ca9ba81e9dcaa12b3a1.ttf",
+    "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.24785cc015b27a3e964b.ttf",
+    "static/media/Alice-Regular.ttf": "/static/media/Alice-Regular.6676c30016104188a3ec.ttf",
+    "static/media/mocupMain.webp": "/static/media/mocupMain.6abfbf7a474b55d4aabd.webp",
+    "static/media/response-image.webp": "/static/media/response-image.ba403681cb70e4186f1d.webp",
+    "static/media/logo.webp": "/static/media/logo.2524976eaa87ab81f365.webp",
+    "static/media/individual-icon.webp": "/static/media/individual-icon.406c05eff0481124f672.webp",
+    "static/media/support-icon.webp": "/static/media/support-icon.179e75e4a7ec2ae1cd9a.webp",
+    "static/media/effective-icon.webp": "/static/media/effective-icon.e73331fff9ec096a81a4.webp",
+    "index.html": "/index.html",
+    "static/media/plusIcon.webp": "/static/media/plusIcon.e0a3d37a36572c9d6f43.webp",
+    "main.4d35c8f8.css.map": "/static/css/main.4d35c8f8.css.map",
+    "main.7c303f3b.js.map": "/static/js/main.7c303f3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d35c8f8.css",
+    "static/js/main.7c303f3b.js"
+  ]
+}
